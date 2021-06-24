@@ -6,11 +6,12 @@
 Hey! Im Sihle Bomela, I love building websites, currently the front-end side.
 
 - 🌱 I’m currently learning [Nodejs](https://nodejs.org)
-- On the other side, I enjoy editing, skateboarding or taking some time to discover something new
-- 
+- On the other side, I enjoy editing(video, images), skateboarding or taking some time to discover something new
+- Exploring Graphic Design
 #### Skills
 
 ![](https://img.shields.io/badge/-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)  
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/-Tailwind-informational?style=flat&logo=TailwindCSS&logoColor=white&color=4AB197)  
 ![](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/-Tailwind-informational?style=flat&logo=TailwindCSS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=4AB197)
