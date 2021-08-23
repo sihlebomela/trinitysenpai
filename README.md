@@ -1,6 +1,7 @@
 ## ![hi emoji](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/whatsapp/116/waving-hand-sign_1f44b.png) Hi! I'm Sihle Bomela
 
 ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logoColor=%2322272e&style=social&url=https%3A%2F%2Ftwitter.com%2Ftrinitysenpai)
+![Codewars Badge](https://www.codewars.com/users/trinity.senpai/badges/micro)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/trinitysenpai)
 ---
 Hey! Im Sihle Bomela, I love building websites, currently the front-end side.
