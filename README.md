@@ -1,5 +1,5 @@
 ## ![hi emoji](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/whatsapp/116/waving-hand-sign_1f44b.png) Hi! I'm Sihle Bomela
-[![Sihle's GitHub stats](https://github-readme-stats.vercel.app/api?username=trinitysenpai)](https://github.com/trinitysenpai/github-readme-stats)
+[![Sihle's GitHub stats](https://github-readme-stats.vercel.app/api?username=trinitysenpai&count_private=true)](https://github.com/trinitysenpai/github-readme-stats)
 
 ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logoColor=%2322272e&style=social&url=https%3A%2F%2Ftwitter.com%2Ftrinitysenpai)
 ![Codewars Badge](https://www.codewars.com/users/trinity.senpai/badges/micro)
