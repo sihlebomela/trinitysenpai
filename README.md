@@ -10,10 +10,12 @@ Hey! Im Sihle Bomela, I love building websites, currently the front-end side.
 - 🌱 I’m currently learning [Nodejs](https://nodejs.org)
 - On the other side, I enjoy editing(video, images), skateboarding or taking some time to discover something new
 - Exploring Graphic Design
-#### Skills
+### Skills
+![](https://img.shields.io/badge/-NODEJS-informational/?style=for-the-badge&logo=node.js&color=006cf9&labelColor=white)
+![](https://img.shields.io/badge/-SASS/SCSS-informational/?style=for-the-badge&logo=Sass&color=006cf9&labelColor=white)
+![](https://img.shields.io/badge/-MongoDB-informational/?style=for-the-badge&logo=MongoDB&color=006cf9&labelColor=white)
 
-![](https://img.shields.io/badge/-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/-Tailwind-informational?style=flat&logo=TailwindCSS&logoColor=white&color=4AB197)  
-![](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=4AB197)
+### Software
+![](https://img.shields.io/badge/-PHOTOSHOP-informational/?style=for-the-badge&logo=adobephotoshop&color=006cf9&labelColor=white)
+![](https://img.shields.io/badge/-FIGMA-informational/?style=for-the-badge&logo=figma&color=006cf9&labelColor=white)
+![](https://img.shields.io/badge/-ADOBE%20PREMEIER%20PRO-informational/?style=for-the-badge&logo=adobepremierepro&color=006cf9&labelColor=white)
