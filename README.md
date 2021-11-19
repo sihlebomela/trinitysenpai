@@ -17,6 +17,6 @@ Hey! Im Sihle Bomela, I love building websites, currently the front-end side.
 ![](https://img.shields.io/badge/-FIGMA-informational/?style=for-the-badge&logo=figma&color=006cf9&labelColor=white)
 ![](https://img.shields.io/badge/-ADOBE%20PREMEIER%20PRO-informational/?style=for-the-badge&logo=adobepremierepro&color=006cf9&labelColor=white)
 
-#### Stats
+#### Stats  
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
