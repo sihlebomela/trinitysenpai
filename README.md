@@ -5,7 +5,7 @@
 ![Codewars Badge](https://www.codewars.com/users/trinity.senpai/badges/micro)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/trinitysenpai)
 ---
-Hey! Im Sihle Bomela, I build websites, or anything that sparks curiousity currently enjoying frontend.
+Hey! Im Sihle Bomela, I build websites(currently enjoying frontend), or anything that sparks curiousity.
 
 ### Skills
 ![](https://img.shields.io/badge/-NODEJS-informational/?style=for-the-badge&logo=node.js&color=006cf9&labelColor=white)
