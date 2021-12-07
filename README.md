@@ -1,9 +1,7 @@
 
 🤓 Building websites & other interesting things that spark curiosity  
-📍 Based in South Africa  
 🛹 Skateboarding is my exercise  
 🌱 Learning more on design & code  
-  
   
 [![Sihle's GitHub stats](https://github-readme-stats.vercel.app/api?username=trinitysenpai&count_private=true)](https://github.com/trinitysenpai/github-readme-stats)
 
