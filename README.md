@@ -1,5 +1,5 @@
 
-🤓 Building websites & other interesting things that spark curiosity  
+🤓 Building websites & other interesting things that spark my curiosity  
 🛹 Skateboarding is my exercise  
 🌱 Learning more on design & code  
   
