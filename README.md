@@ -1,5 +1,5 @@
 
-🤓 Building website & other interesting things that spark curiosity  
+🤓 Building websites & other interesting things that spark curiosity  
 📍 Based in South Africa  
 🛹 Skateboarding is my exercise  
 🌱 Learning more on design & code  
