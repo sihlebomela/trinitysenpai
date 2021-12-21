@@ -1,7 +1,7 @@
 
 🤓 Building websites & other interesting things that spark my curiosity  
 🛹 Skateboarding is my exercise  
-🌱 Learning more on design & code  
+🌱 Learning more code & design  
   
 [![Sihle's GitHub stats](https://github-readme-stats.vercel.app/api?username=trinitysenpai&count_private=true)](https://github.com/trinitysenpai/github-readme-stats)
 
